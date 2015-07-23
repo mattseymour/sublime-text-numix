@@ -495,7 +495,7 @@
     {
         "class": "sidebar_heading",
         "color": [193,193,193],
-        "font.bold": true,
+        "font.bold": false,
         "font.size": 12,
         "shadow_offset": [0,0]
     },
@@ -515,7 +515,7 @@
         "class": "sidebar_label",
         "parents": [{"class": "tree_row","attributes": ["expandable"]}],
         "color": [222,222,222],
-        "font.bold": true
+        "font.bold": false
     },
     {
         "class": "sidebar_label",
@@ -531,7 +531,7 @@
         "class": "sidebar_label",
         "parents": [{"class": "tree_row","attributes": ["expandable"]}],
         "settings": ["bold_folder_labels"],
-        "font.bold": true
+        "font.bold": false
     },
     // Sidebar entry selected
     {
